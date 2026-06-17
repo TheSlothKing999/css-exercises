@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.pa {
+    background-color: hsl(360, 60%, 75%);
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
+}
+.pa.ra{
+    font-size:24px;
+}
